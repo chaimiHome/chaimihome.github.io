@@ -175,3 +175,24 @@
 				-webkit-animation-timing-function: ease-out;
 			}
 		}
+
+@media only screen and (min-width: 870px) {
+	#googleMap{
+/*		margin-left: 100px;*/
+	}
+}
+@media only screen and (min-width: 800px) {
+	#googleMap{
+/*		margin-left: 80px;*/
+	}
+}
+@media only screen and (min-width: 600px) {
+	#googleMap{
+/*		margin-left: 60px;*/
+	}
+}
+@media only screen and (min-width: 300px) {
+	#googleMap{
+/*		margin-left: 30px;*/
+	}
+}
