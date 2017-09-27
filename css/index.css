@@ -183,7 +183,7 @@
 }
 @media only screen and (min-width: 800px) {
 	#googleMap{
-/*		margin-left: 80px;*/
+/*		margin-left: 10px;*/
 	}
 }
 @media only screen and (min-width: 600px) {
@@ -195,4 +195,11 @@
 	#googleMap{
 /*		margin-left: 30px;*/
 	}
+}
+
+
+
+.collection{
+	display:none !important;
+/*visibility: hidden;*/
 }
